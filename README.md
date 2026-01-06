@@ -52,14 +52,15 @@
 &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaifaJendoubi&layout=donut&theme=dracula&hide_border=true" />
 &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaifaJendoubi&theme=dracula&hide_border=true" />
 </div>
--->
 <br/>
+-->
+<!--
 <h2 align="center">🏆 Trophies</h2>
 <div align="center">
 &nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=HaifaJendoubi&theme=dracula&no-frame=true&margin-w=15" />
 </div>
--->
 <br/>
+-->
 <!-- Featured Projects (Tes vrais projets !) -->
 <h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
@@ -106,17 +107,18 @@
 </div>
 <br/>
 -->
-<!-- Animated Snake -->
+<!-- Animated Snake 
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
 &nbsp;&nbsp;<img src="https://github.com/HaifaJendoubi/HaifaJendoubi/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
+-->
 <!-- Closing Girly Touch -->
 <div align="center">
 &nbsp;&nbsp;<div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&bgColor=%23000&textColor=%23FF66CC&borderColor=%23FF66CC" alt="Programming Joke of the Day 💕" />
-  <p><em>Une petite dose d'humour dev tous les jours ! 😄</em></p>
+  <p><em>💕 A Daily Dose of Dev Humor!😄</em></p>
 </div>
 &nbsp;&nbsp;<p><strong>Thanks for visiting my profile! 🌸 ⭐ Star this repo if you love it 💕</strong></p>
 </div>
