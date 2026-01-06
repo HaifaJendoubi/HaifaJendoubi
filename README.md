@@ -80,6 +80,50 @@
 <!-- Featured Projects (Tes vrais projets !) -->
 <h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
+  <h2 align="center">🚀 Featured Projects</h2>
+
+<!-- Projet 1: Blockchain IoT -->
+<div align="center">
+  <h3>🔒 Blockchain-Based Trust Model on Raspberry Pi for Connected Objects</h3>
+  <img src="https://thumbs.dreamstime.com/b/futuristic-digital-network-vibrant-lights-lines-technology-design-big-data-analysis-374122246.jpg" alt="Blockchain IoT Security" style="border-radius:15px; box-shadow: 0 0 20px #FF66CC; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 40px #FF66CC';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #FF66CC';"/>
+  <p><strong>09/2024 – 11/2024</strong><br/>Analyzed IoT security vulnerabilities • Implemented decentralized blockchain model with smart contracts • Achieved 100% tamper-proof transactions & reduced breach vectors by 40%.<br/>Tech: Raspberry Pi, Embedded IoT, Blockchain, Smart Contracts, Cybersecurity, RTOS.</p>
+</div>
+
+<br/>
+
+<!-- Projet 2: Deep Learning IoT Classification -->
+<div align="center">
+  <h3>🧠 Deep Learning for the Classification of IoT Nodes</h3>
+  <img src="https://dezyre.gumlet.io/images/blog/deep-learning-architectures/image_96845262791711679289265.png?w=376&dpr=2.6" alt="Deep Learning Neural Network" style="border-radius:15px; box-shadow: 0 0 20px #FF66CC; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <p><strong>05/2024 – 06/2024</strong><br/>Developed deep learning model for IoT data classification • Optimized algorithms for robust training • Achieved 95% accuracy & 83% F1-score (20% efficiency gain).<br/>Tech: Deep Learning, IoT, AI, Edge Intelligence, TensorFlow/PyTorch.</p>
+</div>
+
+<br/>
+
+<!-- Projet 3: Radar CNN -->
+<div align="center">
+  <h3>📡 Textural Analysis of Radar Images using CNN</h3>
+  <img src="https://www.mdpi.com/remotesensing/remotesensing-16-03269/article_deploy/html/images/remotesensing-16-03269-g003-550.jpg" alt="CNN Radar Texture Analysis" style="border-radius:15px; box-shadow: 0 0 20px #FF66CC; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <p><strong>10/2024 – 12/2024</strong><br/>Designed CNN to preprocess noisy radar images & classify textures • Achieved 90% classification accuracy.<br/>Tech: Deep Learning, Convolutional Neural Networks, Remote Sensing.</p>
+</div>
+
+<br/>
+
+<!-- Projet 4: Calibration Programmer -->
+<div align="center">
+  <h3>⚙️ Industrial Calibration Programmer Redesign</h3>
+  <img src="https://www.electroniclinic.com/wp-content/uploads/2019/11/raspberry-pi-industrial-automation-hmi-application.jpg" alt="Qt GUI Industrial" style="border-radius:15px; box-shadow: 0 0 20px #FF66CC; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <p><strong>02/2025 – 06/2025 (Marquardt Automotive)</strong><br/>Redesigned costly hardware with SMD components • Built Python/Qt GUI • Achieved 52% cost reduction & 80% faster flashing.<br/>Tech: Python, Qt, C, Embedded Systems, SPI/USB.</p>
+</div>
+
+<br/>
+
+<!-- Projet 5: Weather Dashboard -->
+<div align="center">
+  <h3>🌤️ Real-Time Weather Monitoring Web Page</h3>
+  <img src="https://www.donskytech.com/wp-content/uploads/2023/05/Featured-Image-Raspberry-Pi-IoT-Weather-Station.jpg" alt="Weather Dashboard IoT" style="border-radius:15px; box-shadow: 0 0 20px #FF66CC; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <p><strong>01/2024 – 02/2024</strong><br/>Developed web dashboard with real-time temperature (95% accuracy) • Remote browser access • DHT11 sensor integration.<br/>Tech: Web Dev, IoT, Data Visualization, Sensor Integration.</p>
+</div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Blockchain-IoT-Trust-Model-RPi&theme=dracula" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=DeepLearning-IoT-Node-Classification&theme=dracula" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Radar-Image-Texture-Analysis-CNN&theme=dracula" />
