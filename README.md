@@ -67,6 +67,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaifaJendoubi&layout=donut&theme=dracula&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaifaJendoubi&theme=dracula&hide_border=true" />
 </div>
+-->
+
+
 
 <br/>
 
@@ -74,6 +77,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HaifaJendoubi&theme=dracula&no-frame=true&margin-w=15" />
 </div>
+-->
 
 <br/>
 
@@ -122,12 +126,14 @@
   <h3>🌤️ <span style="color:#FF66CC;">Real-Time IoT Weather Monitoring Dashboard</span></h3>
   <img src="https://www.donskytech.com/wp-content/uploads/2023/05/Featured-Image-Raspberry-Pi-IoT-Weather-Station.jpg" width="600" alt="IoT Weather Dashboard" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
   <p><strong>01/2024 – 02/2024</strong><br/>Built a cross-platform web dashboard for remote, real-time environmental monitoring with high-precision sensor integration. Enabled instant access from any browser with <strong>95% data accuracy</strong>.<br/>🔑 <em>Real-Time IoT • Data Visualization • Sensor Integration • Web Dashboard • DHT11 • Cross-Platform</em></p>
+  <!-- Ton commentaire ici, il ne sera pas visible sur GitHub 
 </div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Blockchain-IoT-Trust-Model-RPi&theme=dracula" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=DeepLearning-IoT-Node-Classification&theme=dracula" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Radar-Image-Texture-Analysis-CNN&theme=dracula" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Industrial-Calibration-Programmer-Redesign&theme=dracula" />
 </div>
+-->
 
 <br/>
 
