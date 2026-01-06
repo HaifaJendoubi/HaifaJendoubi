@@ -80,12 +80,11 @@
 <!-- Featured Projects (Tes vrais projets !) -->
 <h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
-  <h2 align="center">🚀 Featured Projects</h2>
 
 <!-- Projet 1: Blockchain IoT -->
 <div align="center">
   <h3>🔒 <span style="color:#FF66CC;">Blockchain-Powered Secure IoT Trust Model</span> on Raspberry Pi</h3>
-  <img src="https://thumbs.dreamstime.com/b/abstract-neon-circuit-board-technology-background-futuristic-digital-motherboard-329935639.jpg" width="600" alt="Blockchain IoT Edge Security" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 50px #FF66CC';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px #FF66CC';"/>
+  <img src="https://thumbs.dreamstime.com/b/futuristic-digital-network-vibrant-lights-lines-technology-design-big-data-analysis-374122246.jpg" width="600" alt="Blockchain IoT Edge Security" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 50px #FF66CC';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px #FF66CC';"/>
   <p><strong>09/2024 – 11/2024</strong><br/>Engineered a decentralized blockchain-based security framework for IoT devices, eliminating single points of failure and enhancing data integrity in connected ecosystems. Achieved <strong>100% tamper-proof transactions</strong> and <strong>40% reduction in breach vectors</strong> through smart contracts and real-time validation.<br/>🔑 <em>Edge Cybersecurity • Smart Contracts • Decentralized Architecture • RTOS • Embedded Linux • Raspberry Pi</em></p>
 </div>
 
@@ -94,7 +93,7 @@
 <!-- Projet 2: Deep Learning IoT -->
 <div align="center">
   <h3>🧠 <span style="color:#FF66CC;">Edge AI: Deep Learning Classifier for IoT Nodes</span></h3>
-  <img src="https://thumbs.dreamstime.com/b/futuristic-neon-digital-brain-formed-glowing-circuit-board-lines-pink-cyan-symbolizing-artificial-intelligence-neural-410616252.jpg" width="600" alt="Deep Learning Edge AI" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://dezyre.gumlet.io/images/blog/deep-learning-architectures/image_96845262791711679289265.png" width="600" alt="Deep Learning Edge AI" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
   <p><strong>05/2024 – 06/2024</strong><br/>Developed and optimized a high-performance deep learning model for real-time classification of IoT sensor data at the edge. Delivered <strong>95% accuracy</strong> and <strong>83% F1-score</strong>, enabling <strong>20% faster processing</strong> and smarter decision-making in resource-constrained environments.<br/>🔑 <em>Edge AI • Deep Learning • TensorFlow/PyTorch • Model Optimization • Smart Analytics • IoT Intelligence</em></p>
 </div>
 
@@ -103,7 +102,7 @@
 <!-- Projet 3: Radar CNN -->
 <div align="center">
   <h3>📡 <span style="color:#FF66CC;">High-Accuracy CNN for Radar Image Texture Analysis</span></h3>
-  <img src="https://learn.uvm.edu/wp-content/uploads/2023/07/GIS-concept.jpg" width="600" alt="CNN Remote Sensing Radar" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://www.mdpi.com/remotesensing/remotesensing-16-03269/article_deploy/html/images/remotesensing-16-03269-g003-550.jpg" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
   <p><strong>10/2024 – 12/2024</strong><br/>Designed a convolutional neural network to overcome noise challenges in radar imagery, enabling precise texture classification for remote sensing applications. Achieved <strong>90% classification accuracy</strong> with significant improvements in processing speed and reliability.<br/>🔑 <em>Computer Vision • CNN • Remote Sensing • Deep Learning • Data Preprocessing • AI for Geospatial</em></p>
 </div>
 
@@ -112,7 +111,7 @@
 <!-- Projet 4: Calibration Programmer -->
 <div align="center">
   <h3>⚙️ <span style="color:#FF66CC;">Industrial Calibration Programmer Redesign & Cost Optimization</span></h3>
-  <img src="https://cdn.thenewstack.io/media/2025/03/79f58a6f-neaonhero-1.jpg" width="600" alt="Industrial Automation Qt GUI" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://www.electroniclinic.com/wp-content/uploads/2019/11/raspberry-pi-industrial-automation-hmi-application.jpg" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
   <p><strong>02/2025 – 06/2025 | Marquardt Automotive R&D</strong><br/>Transformed a high-cost sensor calibration tool into a scalable, efficient solution through hardware redesign (SMD) and modern software stack. Delivered <strong>52% cost reduction</strong> and <strong>80% faster flashing process</strong> via Python/Qt GUI and embedded firmware.<br/>🔑 <em>Industrial IoT • Embedded Systems • Cost Optimization • Python/Qt • TDD • SPI/USB • Hardware Redesign</em></p>
 </div>
 
@@ -121,7 +120,7 @@
 <!-- Projet 5: Weather Dashboard -->
 <div align="center">
   <h3>🌤️ <span style="color:#FF66CC;">Real-Time IoT Weather Monitoring Dashboard</span></h3>
-  <img src="https://www.shutterstock.com/image-vector/user-interface-elements-set-smart-260nw-2444322313.jpg" width="600" alt="IoT Weather Dashboard" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://www.donskytech.com/wp-content/uploads/2023/05/Featured-Image-Raspberry-Pi-IoT-Weather-Station.jpg" width="600" alt="IoT Weather Dashboard" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
   <p><strong>01/2024 – 02/2024</strong><br/>Built a cross-platform web dashboard for remote, real-time environmental monitoring with high-precision sensor integration. Enabled instant access from any browser with <strong>95% data accuracy</strong>.<br/>🔑 <em>Real-Time IoT • Data Visualization • Sensor Integration • Web Dashboard • DHT11 • Cross-Platform</em></p>
 </div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Blockchain-IoT-Trust-Model-RPi&theme=dracula" />
