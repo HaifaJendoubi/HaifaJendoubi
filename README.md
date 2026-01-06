@@ -15,7 +15,7 @@
 <!-- Profile Photo (Girly Circle) + Intro -->
 <div align="center">
   <img src="https://via.placeholder.com/200x200/FF66CC/FFFFFF?text=Haifa+%F0%9F%92%95" width="200" height="200" style="border-radius:50%; border:5px solid #FF66CC;" alt="Haifa Jendoubi" />
-  <!-- Remplace par ton URL photo : upload une photo pro dans ton repo et mets le lien ici -->
+  <!--(https://github.com/HaifaJendoubi/HaifaJendoubi/blob/main/1759242483040.jfif) -->
   
   <h1>🌸 Haifa Jendoubi</h1>
   <p><strong>Embedded Systems & Automation Engineer</strong> | Passionate about <strong>IoT, AI/ML, Electronics, and Industrial Automation</strong></p>
