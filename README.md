@@ -45,7 +45,7 @@
 &nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,qt,git,tensorflow,pytorch,raspberrypi,arduino,stm32,altium,mqtt,aws,docker,postgres&perline=10&theme=dark" />
 </div>
 <br/>
-<!-- GitHub Stats (Dracula Theme - Elegant Purple) -->
+<!-- GitHub Stats (Dracula Theme - Elegant Purple) 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
 &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=HaifaJendoubi&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
