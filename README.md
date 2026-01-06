@@ -14,8 +14,7 @@
 
 <!-- Profile Photo (Girly Circle) + Intro -->
 <div align="center">
-  <img src="https://via.placeholder.com/200x200/FF66CC/FFFFFF?text=Haifa+%F0%9F%92%95" width="200" height="200" style="border-radius:50%; border:5px solid #FF66CC;" alt="Haifa Jendoubi" />
-  <!--(https://github.com/HaifaJendoubi/HaifaJendoubi/blob/main/1759242483040.jfif) -->
+  <img src="https://raw.githubusercontent.com/HaifaJendoubi/HaifaJendoubi/main/1759242483040.jfif" width="200" height="200" style="border-radius:50%; border:6px solid #FF66CC; box-shadow: 0 0 20px #FF66CC;" alt="Haifa Jendoubi 💕" />
   
   <h1>🌸 Haifa Jendoubi</h1>
   <p><strong>Embedded Systems & Automation Engineer</strong> | Passionate about <strong>IoT, AI/ML, Electronics, and Industrial Automation</strong></p>
