@@ -102,7 +102,7 @@
 <!-- Projet 3: Radar CNN -->
 <div align="center">
   <h3>📡 <span style="color:#FF66CC;">High-Accuracy CNN for Radar Image Texture Analysis</span></h3>
-  <img src="https://www.mdpi.com/remotesensing/remotesensing-16-03269/article_deploy/html/images/remotesensing-16-03269-g003-550.jpg" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="[https://www.mdpi.com/remotesensing/remotesensing-16-03269/article_deploy/html/images/remotesensing-16-03269-g003-550.jpg](https://www.frontiersin.org/files/Articles/1075538/fnins-16-1075538-HTML-r1/image_m/fnins-16-1075538-g007.jpg)" style="border-radius:20px; box-shadow: 0 0 30px #FF66CC; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.08)';" onmouseout="this.style.transform='scale(1)';"/>
   <p><strong>10/2024 – 12/2024</strong><br/>Designed a convolutional neural network to overcome noise challenges in radar imagery, enabling precise texture classification for remote sensing applications. Achieved <strong>90% classification accuracy</strong> with significant improvements in processing speed and reliability.<br/>🔑 <em>Computer Vision • CNN • Remote Sensing • Deep Learning • Data Preprocessing • AI for Geospatial</em></p>
 </div>
 
