@@ -1,89 +1,104 @@
-<!-- Futuristic Typing Header -->
+<!-- Girly Neon Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=4000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Haifa+Jendoubi!;Embedded+Systems+%26+IoT+Engineer;%F0%9F%94%A5+AI+%7C+Automation+%7C+Cybersecurity;Building+the+future+of+connected+devices" alt="Typing SVG" />
+  <img src="https://www.bez-kabli.pl/news/wp-content/uploads/2025/10/technology-news-cover-scaled.jpg" alt="Futuristic Embedded Banner" />
 </div>
 
 <br/>
 
-<!-- Introduction Section -->
+<!-- Animated Girly Typing Header (Purple/Pink) -->
 <div align="center">
-  <h1>🚀 Haifa Jendoubi</h1>
-  <p><strong>Embedded & Electronic Systems Engineer</strong> | Passionate about <strong>IoT, AI/ML, Automation, and Cybersecurity</strong></p>
-  <p>Innovating at the intersection of hardware and intelligent software — redesigning systems for efficiency, securing connected devices, and automating the future.</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=4000&pause=1000&color=FF66CC&multiline=true&repeat=true&width=1000&height=120&lines=Hey+%F0%9F%91%8B%2C+I'm+Haifa+Jendoubi!;%F0%9F%8C%9F+Embedded+%26+Automation+Engineer;%F0%9F%92%A1+IoT+%7C+AI+%7C+Electronics+%7C+Cybersecurity;Redesigning+the+future+of+connected+devices+%F0%9F%8C%B8" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Profile Photo (Girly Circle) + Intro -->
+<div align="center">
+  <img src="https://via.placeholder.com/200x200/FF66CC/FFFFFF?text=Haifa+%F0%9F%92%95" width="200" height="200" style="border-radius:50%; border:5px solid #FF66CC;" alt="Haifa Jendoubi" />
+  <!-- Remplace par ton URL photo : upload une photo pro dans ton repo et mets le lien ici -->
+  
+  <h1>🌸 Haifa Jendoubi</h1>
+  <p><strong>Embedded Systems & Automation Engineer</strong> | Passionate about <strong>IoT, AI/ML, Electronics, and Industrial Automation</strong></p>
+  <p>Innovating hardware redesigns, secure IoT solutions, deep learning models, and automated testing — with experience at Marquardt Automotive & Sagemcom.</p>
   <p>📍 Nabeul, Tunisia | 📧 haifa.jandoubi22@gmail.com | 📱 (+216) 90146297</p>
-  <p>🔍 Open to opportunities in R&D, Embedded/IoT/AI roles (internship, full-time, freelance)</p>
+  <p>🔍 Open to opportunities in Embedded, IoT, AI, Automotive R&D 🌟</p>
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Animated Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaifaJendoubi&label=Profile+Views&color=00ffff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HaifaJendoubi&label=Profile+Views+%F0%9F%92%96&color=ff66cc&style=flat-square" alt="Views" />
 </div>
 
 <br/>
 
-<!-- Social Links -->
+<!-- Personalized Status Sections (Pro + Cute Emojis) -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/haifa-jendoubi-yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:haifa.jandoubi22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Add your real LinkedIn URL -->
+
+🔭 **Currently working on** Advanced Embedded Linux & Industrial Calibration Systems (Marquardt-inspired redesigns)  
+🌱 **Currently learning** Advanced PCB Design (Altium/Eagle) & Edge AI Optimization  
+🤝 **Open to collaborate on** IoT Security, Blockchain for Connected Devices, Automotive Automation, or Deep Learning projects  
+💬 **Ask me about** C/C++, STM32/Raspberry Pi, Python/Qt Automation, IoT Protocols (MQTT/CAN/SPI), or Test-Driven Development  
+📫 **Reach me at** haifa.jandoubi22@gmail.com  
+⚡ **Fun fact** Redesigned an industrial programmer achieving 52% cost reduction & 80% faster process! 🚀
+
 </div>
 
 <br/>
 
-<!-- Tech Stack (Highly relevant to your skills) -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<!-- Social Links (Girly Pink Badges) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,embedded,git,qt,nodejs,tensorflow,pytorch,sklearn,raspberrypi,arduino,stm32,mqtt,aws,docker,postgres&perline=12&theme=dark" />
+  <a href="https://linkedin.com/in/haifa-jendoubi"><img src="https://img.shields.io/badge/LinkedIn-FF66CC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:haifa.jandoubi22@gmail.com"><img src="https://img.shields.io/badge/Email-FF66CC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
 
-<!-- GitHub Stats (Dynamic & Visually Appealing) -->
+<!-- Tech Stack (Highlighted Electronics/Automation/AI/IoT) -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,qt,git,tensorflow,pytorch,raspberrypi,arduino,stm32,altium,mqtt,aws,docker,postgres&perline=10&theme=dark" />
+</div>
+
+<br/>
+
+<!-- GitHub Stats (Dracula Theme - Elegant Purple) -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaifaJendoubi&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaifaJendoubi&layout=donut&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaifaJendoubi&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaifaJendoubi&layout=donut&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaifaJendoubi&theme=dracula&hide_border=true" />
 </div>
 
 <br/>
 
+<h2 align="center">🏆 Trophies</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaifaJendoubi&theme=react&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HaifaJendoubi&theme=dracula&no-frame=true&margin-w=15" />
 </div>
 
 <br/>
 
-<!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- Featured Projects (Tes vrais projets !) -->
+<h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaifaJendoubi&theme=juicyfresh&no-frame=true&margin-w=15" alt="Trophies" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Blockchain-IoT-Trust-Model-RPi&theme=dracula" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=DeepLearning-IoT-Node-Classification&theme=dracula" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Radar-Image-Texture-Analysis-CNN&theme=dracula" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Industrial-Calibration-Programmer-Redesign&theme=dracula" />
 </div>
 
 <br/>
 
-<!-- Highlighted Projects (Update with your real repo names) -->
-<h2 align="center">🔥 Featured Projects</h2>
+<!-- Animated Snake -->
+<h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
-
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Blockchain-IoT-Trust-Model&theme=react" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=DeepLearning-IoT-Classification&theme=react" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Industrial-Calibration-Redesign&theme=react" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaifaJendoubi&repo=Radar-Image-Texture-Analysis&theme=react" />
-
+  <img src="https://github.com/HaifaJendoubi/HaifaJendoubi/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
 
-<!-- Contribution Snake (Fun & Creative) -->
-<h2 align="center">🐍 My Contribution Snake</h2>
+<!-- Closing Girly Touch -->
 <div align="center">
-  <img src="https://github.com/HaifaJendoubi/HaifaJendoubi/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</div>
-
-<br/>
-
-<!-- Fun Closing -->
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Joke of the Day" />
-  <p><strong>Thanks for stopping by! ⭐ Star this repo if you like my profile 🚀</strong></p>
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Joke" />
+  <p><strong>Thanks for visiting my profile! 🌸 ⭐ Star this repo if you love it 💕</strong></p>
 </div>
