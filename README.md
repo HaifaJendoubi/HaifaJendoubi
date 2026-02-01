@@ -35,7 +35,7 @@
 <br/>
 <!-- Social Links (Girly Pink Badges) -->
 <div align="center">
-&nbsp;&nbsp;<a href="https://linkedin.com/in/haifa-jendoubi"><img src="https://img.shields.io/badge/LinkedIn-FF66CC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/haifa-jendoubi-70b2a61b4/"><img src="https://img.shields.io/badge/LinkedIn-FF66CC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;&nbsp;<a href="mailto:haifa.jandoubi22@gmail.com"><img src="https://img.shields.io/badge/Email-FF66CC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 <br/>
