@@ -25,12 +25,12 @@
 <br/>
 <!-- Personalized Status Sections (Pro + Cute Emojis) -->
 <div align="center">
-🔭 **Currently working on** Advanced Embedded Linux & Industrial Calibration Systems (Marquardt-inspired redesigns)
-🌱 **Currently learning** Advanced PCB Design (Altium/Eagle) & Edge AI Optimization
-🤝 **Open to collaborate on** IoT Security, Blockchain for Connected Devices, Automotive Automation, or Deep Learning projects
-💬 **Ask me about** C/C++, STM32/Raspberry Pi, Python/Qt Automation, IoT Protocols (MQTT/CAN/SPI), or Test-Driven Development
-📫 **Reach me at** haifa.jandoubi22@gmail.com
-⚡ **Fun fact** Redesigned an industrial programmer achieving 52% cost reduction & 80% faster process! 🚀
+🔭 Currently working on Advanced Embedded Linux & Industrial Calibration Systems (Marquardt-inspired redesigns)
+🌱 Currently learning Advanced PCB Design (Altium/Eagle) & Edge AI Optimization
+🤝 Open to collaborate on IoT Security, Blockchain for Connected Devices, Automotive Automation, or Deep Learning projects
+💬 Ask me about C/C++, STM32/Raspberry Pi, Python/Qt Automation, IoT Protocols (MQTT/CAN/SPI), or Test-Driven Development
+📫 Reach me at haifa.jandoubi22@gmail.com
+⚡ Fun fact Redesigned an industrial programmer achieving 52% cost reduction & 80% faster process! 🚀
 </div>
 <br/>
 <!-- Social Links (Girly Pink Badges) -->
